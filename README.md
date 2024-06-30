@@ -20,4 +20,12 @@ Atualizar repositório local
 
 - git pull
 
-- Proximos comandos
+Criar nova branch e atualizar via Pull Request
+
+- Completo
+    - git branch 'NomeDaBranch'
+    - git checkout 'NomeDaBranch'
+
+- Simplificado
+
+    - git checkout -b 'NomeDaBranch'
