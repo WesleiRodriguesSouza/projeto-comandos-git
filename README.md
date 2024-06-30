@@ -16,6 +16,8 @@ Atualizar repositório do GitHub
 
 - git push
 
-Atualizr repositório local
+Atualizar repositório local
 
 - git pull
+
+- Proximos comandos
